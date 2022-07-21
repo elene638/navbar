@@ -60,7 +60,7 @@ img {
 }
 
 .links a {
-    color: black;
+    color: #1f58a2;
     padding: 0.5rem;
     display: block;
     text-transform: capitalize;
@@ -82,7 +82,11 @@ img {
 }
 
 .icons li {
-    padding: 2px;
+    padding: 4px;
+}
+
+.icons a {
+    color: #1f58a2;
 }
 
 @media screen and (min-width: 800px) {

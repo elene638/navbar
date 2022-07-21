@@ -1,7 +1,7 @@
 import React from 'react'
 import Photo from '../images/logo.svg'
 import {links, social} from './data'
-import {FaBars, FaTwitter} from 'react-icons/fa'
+import {FaBars} from 'react-icons/fa'
 
 function Navbar() {
     const [toggle, setToggle] = React.useState(false)
